@@ -1,0 +1,3 @@
+mkdir check-polkit
+git clone https://github.com/nurarifin05/Polkit-check
+python3 script.py
